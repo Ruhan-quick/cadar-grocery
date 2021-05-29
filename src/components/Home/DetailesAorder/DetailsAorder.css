@@ -1,0 +1,8 @@
+.x {
+  border: 1px solid blueviolet;
+}
+.tagnav {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+}
