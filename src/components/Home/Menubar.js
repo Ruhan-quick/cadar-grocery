@@ -1,12 +1,12 @@
 import React from "react";
 import {
-    DropdownItem,
-    Icon,
-    InputItem,
-    Item,
-    Logo,
-    LogoText,
-    Sidebar
+  DropdownItem,
+  Icon,
+  InputItem,
+  Item,
+  Logo,
+  LogoText,
+  Sidebar
 } from "react-sidebar-ui";
 import logo from "../Assets/Images/logo.png";
 const Menubar = () => {
