@@ -21,7 +21,7 @@ const DetailsAorder = ({ modalIsOpen, closeModal, item }) => {
       onRequestClose={closeModal}
       contentLabel="Example Modal"
       //   style={customStyles}
-      style={{ padding: "200px" }}
+      style={{ margin: "70px" }}
     >
       <div className="row">
         <div className="col-lg-6 col-md-12">

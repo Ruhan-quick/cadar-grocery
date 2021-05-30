@@ -1,4 +1,5 @@
 import React from "react";
+import Navbar from "../../../Shared/Navbar";
 import ItemCard from "../ItemCard/ItemCard";
 import "./GroceryItems.css";
 const GroceryItems = () => {
